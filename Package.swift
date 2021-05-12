@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .target(
             name: "ColorPicKit",
-            path: "Sources",
+            path: "ColorPicKit",
             exclude: [
                 "Info.plist",
             ],
